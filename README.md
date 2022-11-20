@@ -29,7 +29,7 @@ packages:
 
 Example on Ubuntu:
 ```
-apt install golang-go
+apt install golang-go build-essential
 git clone https://github.com/yggdrasil-network/yggdrasil-go.git
 cd yggdrasil-go
 ./build
