@@ -79,7 +79,8 @@ You will likely need to run Yggdrasil as a privileged user or under `sudo`,
 unless you have permission to create TUN/TAP adapters. On Linux this can be done
 by giving the Yggdrasil binary the `CAP_NET_ADMIN` capability.
 
-
+```
 https://yggdrasil-network.github.io/configuration.html — information about configuring Yggdrasil
 https://github.com/yggdrasil-network/public-peers — public nodes to connect to
 https://yggdrasil-network.github.io/services.html — services running inside the Yggdrasil Network
+```
